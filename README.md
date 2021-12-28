@@ -1,6 +1,7 @@
 # TP3_imdb
 
 Conclusion:
+
 <b>J'ai utilisé 2 modèles, LogisticRegression et svc.</b>
 <b>J'ai obtenue le meilleur test accuracy score 0.88 avec LogisticRegression(C=0.01, class_weight='balanced', random_state=42, warm_start=True)</b>
 
