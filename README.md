@@ -18,4 +18,4 @@ La base de données Internet Movie Database (IMDb) est considérée le "Hello Wo
 Entrainer ensuite dans un (enfin trois !) Jupyter Notebooks un ou plusieurs modèle(s) de Machine Learning de votre choix en utilisant la librairie scikit-learn sur les données IMDb que vous aurez encodées au format One-Hot.
 
 Conclusion:
-J'ai obtenue test accuracy score 0.88 avec LogisticRegression(C=0.01, class_weight='balanced', random_state=42, warm_start=True)
+<b>J'ai obtenue test accuracy score 0.88 avec LogisticRegression(C=0.01, class_weight='balanced', random_state=42, warm_start=True)</b>
