@@ -1,5 +1,9 @@
 # TP3_imdb
 
+Conclusion:
+<b>J'ai utilisé 2 modèles, LogisticRegression et svc.</b>
+<b>J'ai obtenue le meilleur test accuracy score 0.88 avec LogisticRegression(C=0.01, class_weight='balanced', random_state=42, warm_start=True)</b>
+
 Le but de ce brief est de s'approprier certains fondamentaux du traitement automatique du langage naturel sur un exemple d'application : 
 l'analyse de sentiments avec  Internet Movie Database (IMDb) 
 
@@ -17,5 +21,4 @@ La base de données Internet Movie Database (IMDb) est considérée le "Hello Wo
 
 Entrainer ensuite dans un (enfin trois !) Jupyter Notebooks un ou plusieurs modèle(s) de Machine Learning de votre choix en utilisant la librairie scikit-learn sur les données IMDb que vous aurez encodées au format One-Hot.
 
-Conclusion:
-<b>J'ai obtenue test accuracy score 0.88 avec LogisticRegression(C=0.01, class_weight='balanced', random_state=42, warm_start=True)</b>
+
