@@ -3,7 +3,10 @@
 Conclusion:
 
 <b>J'ai utilisé 2 modèles, LogisticRegression et svc.</b>
+<b>Je constate qu'il a fallu 40 heures pour le grid search pour le modèle svc et que je ne pouvais pas règler bien car il me demande trop de temps. C'est pour cela que le résultat avec mon modèles svc reste over fitting et je n'ai pas eu de temps pour aller loin. Je pense que le modèle avec LogisticRegression est mieux même si j'aurai du temps.</b>
 <b>J'ai obtenue le meilleur test accuracy score 0.88 avec LogisticRegression(C=0.01, class_weight='balanced', random_state=42, warm_start=True)</b>
+
+Projet
 
 Le but de ce brief est de s'approprier certains fondamentaux du traitement automatique du langage naturel sur un exemple d'application : 
 l'analyse de sentiments avec  Internet Movie Database (IMDb) 
