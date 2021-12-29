@@ -7,6 +7,7 @@ Conclusion:
 <b>J'ai obtenue le meilleur test accuracy score 0.88 avec LogisticRegression(C=0.01, class_weight='balanced', random_state=42, warm_start=True)</b>
 
 Projet
+
 Le but de ce brief est de s'approprier certains fondamentaux du traitement automatique du langage naturel sur un exemple d'application : 
 l'analyse de sentiments avec  Internet Movie Database (IMDb) 
 
